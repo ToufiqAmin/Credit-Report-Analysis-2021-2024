@@ -1,9 +1,12 @@
 # Credit-Report-Analysis(2021-2024)
 
 Credit Report Summary Analysis Dashboard (2021-2024)
+
 I recently developed an interactive Power BI dashboard to analyze credit report performance across different banks with a strong focus on over 4 Years growth, decline and performance insights. To develop it, I have to preprocess datas from provided excel files to Jupyter(Python).
 Tools: Power BI. Excel, Jupyter, Python.
+
 Dashboard Features:
+
 1. Top 3 Growing & Declining Banks.
 2. Monthly & Yearly Bank Slicers for dynamic filtering
 3. Credit Report Summarization per Year
